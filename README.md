@@ -1,4 +1,4 @@
-# Please install gcloud SDK first before procceed
+Please install gcloud SDK first before procceed
 
 # To print out generated token
 source print_service_account_token.sh
