@@ -1,5 +1,6 @@
 # Setup
 1.Please install gcloud SDK first before procceed
+
 2.Pull the repo and add your private key of the service account under root folder 
 
 # To print out generated token
